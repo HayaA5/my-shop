@@ -1,0 +1,12 @@
+.categorieList{
+    margin:20px;
+    /* display:flex; */
+    font-size:30px;
+  }
+
+  .category{
+      /* background-color:red; */
+      margin:50px;
+      grid-template-columns: repeat(2, auto);
+      display:flex;
+  }
